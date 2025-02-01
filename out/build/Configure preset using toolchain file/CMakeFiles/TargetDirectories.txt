@@ -1,0 +1,2 @@
+/Users/yassermorsy/Documents/PlatformIO/Projects/oled_mic_esp32/out/build/Configure preset using toolchain file/CMakeFiles/edit_cache.dir
+/Users/yassermorsy/Documents/PlatformIO/Projects/oled_mic_esp32/out/build/Configure preset using toolchain file/CMakeFiles/rebuild_cache.dir

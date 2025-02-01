@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "font8x8_basic.h": "c",
+        "adc.h": "c",
+        "esp_adc_cal.h": "c",
+        "freertos.h": "c",
+        "ssd1306.h": "c"
+    }
+}
